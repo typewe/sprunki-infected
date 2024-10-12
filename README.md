@@ -1,10 +1,15 @@
 # sprunki-infected
+
 Sprunki Infected: https://sprunkiinfected.com/
+
+```
+$ npm install -g sprunki-infected
+$ sprunki-infected
+```
 
 Sprunki Infected is a rhythm-based musical game inspired by Incredibox but with a unique, post-apocalyptic twist. Players use interactive sound blocks to create music by layering different sounds, such as melodies, bass lines, and beats. What sets "Sprunki Infected" apart is that the music isn't just for entertainment—it's a key element in surviving an infected world filled with obstacles and enemies.
 
-Key Features of Sprunki Infected
---------------------------------
+## Key Features of Sprunki Infected
 
 Discover the standout features that make Sprunki Infected a must-play game for music lovers and adventure seekers alike.
 
@@ -32,8 +37,7 @@ Sprunki Infected is constantly being updated with new content, ensuring freshnes
 
 Join a community of fellow Sprunki Infected players where you can share your creations, get ideas, and connect with other music lovers and gamers.
 
-How to Play Sprunki Infected
-----------------------------
+## How to Play Sprunki Infected
 
 Get started on your journey in Sprunki Infected with these simple steps.
 
@@ -55,15 +59,13 @@ Dive into the music-making aspect by mixing and matching sounds. Use the diverse
 
 Join your hero in various challenges throughout the levels, and showcase your creations. Participate in quests that require you to think creatively and musically to advance.
 
-Join the Sprunki Infected Adventure Today!
-------------------------------------------
+## Join the Sprunki Infected Adventure Today!
 
 ### Don't miss out on the fun of creating music while saving the world! Start your journey now and unleash your inner musical talent.
 
-[Start for Free](https://sprunkiinfected.com/#main)
+Play Now: [Sprunki Infected](https://sprunkiinfected.com/)
 
-What Sprunki Infected Players Are Saying
-----------------------------------------
+## What Sprunki Infected Players Are Saying
 
 Join the growing community of Sprunki Infected fans who are thrilled with the game's incredible features!
 
@@ -87,8 +89,7 @@ Music Producer
 
 “I enjoy experimenting with all the different sounds in Sprunki Infected! It's like my own musical playground where I can create and share my beats.,,
 
-Sprunki Infected Frequently Asked Questions
--------------------------------------------
+## Sprunki Infected Frequently Asked Questions
 
 Got questions about Sprunki Infected? Here are some common inquiries answered!
 
@@ -111,4 +112,3 @@ Players are encouraged to provide feedback about their experiences in Sprunki In
 Absolutely! The developers are committed to making Sprunki Infected a dynamic experience by regularly introducing new content, characters, and sounds to keep the game fresh and exciting.
 
 Getting started is as easy as visiting the official website and clicking on 'Start for Free!' From there, you'll dive directly into the colorful and musical world of Sprunki Infected.
-

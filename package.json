@@ -1,0 +1,16 @@
+{
+  "name": "sprunki-infected",
+  "version": "1.0.0",
+  "description": "SprunkiInfected.com: Sprunki Infected Game Online",
+  "main": "index.js",
+  "bin": {
+    "sprunki-infected": "./index.js"
+  },
+  "keywords": [
+    "sprunki",
+    "infected",
+    "sprunki infected"
+  ],
+  "author": "sprunki",
+  "license": "ISC"
+}
