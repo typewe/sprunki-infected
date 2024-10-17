@@ -1,6 +1,6 @@
-# sprunki-infected
+# [Sprunki Infected](https://sprunkiinfected.com/)
 
-Sprunki Infected: https://sprunkiinfected.com/
+URL: https://sprunkiinfected.com/
 
 ```
 $ npm install -g sprunki-infected
